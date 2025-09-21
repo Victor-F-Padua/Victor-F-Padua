@@ -22,8 +22,9 @@
 <p>- I've always enjoyed building things, and when I discovered programming, where you build a website from start to finish, it made me discover something I enjoyed.</p>  
 
 <h2>How to find me</h2>
-<img width="40"  alt="image-linkedin" src="https://github.com/user-attachments/assets/650fa1da-6b63-4079-a755-a67a9b00d4d0" <a href="www.linkedin.com/in/victor-ferreira-9a6566377" /> 
-<img width="40"  alt="image-Gmail" src="https://github.com/user-attachments/assets/91932527-abf9-4e44-a1a6-859167e5032e" <a href="victor.f.padua@gmail.com" />
+<a href="www.linkedin.com/in/victor-ferreira-9a6566377">Linkedin</a> 
+<br>
+<a href="victor.f.padua@gmail.com">Gmail</a> 
 
 
 <br>
