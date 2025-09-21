@@ -23,16 +23,17 @@
 
 <h2>How to find me</h2>
 <img width="40"  alt="image-linkedin" src="https://github.com/user-attachments/assets/650fa1da-6b63-4079-a755-a67a9b00d4d0" <a href="www.linkedin.com/in/victor-ferreira-9a6566377" /> 
+<img width="40"  alt="image-Gmail" src="https://github.com/user-attachments/assets/91932527-abf9-4e44-a1a6-859167e5032e" <a href="victor.f.padua@gmail.com" />
+
 
 <br>
 <br>
 
 <h2>most Used Language</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorFerreira-hub&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-F-Padua&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<br>
-<h3>People who accessed</h3>
 
-![](https://komarev.com/ghpvc/?username=victorFerreira-hub)
+
+
+
