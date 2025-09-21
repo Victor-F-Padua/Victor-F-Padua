@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hello, I'm Victor Ferreira 💪🏽
 
-<!--
-**victorFerreira-hub/victorFerreira-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🎓 High school student at <b>ETEC</b>, with a technical degree in <b>Mechanics</b>.<p/>
+<p>💻 Despite studying mechanics, I discovered my <b>passion for programming</b> and am focused on pursuing a career in technology.</p>
+<p>🚀 Constantly learning and building my path as a <b>developer</b>.</p>
+<p>🧠 I want to be a FullStack programmer and also a competent programmer who understands what he is doing and just doesn't copy code.</p>
 
-Here are some ideas to get you started:
+<h2>🌱 What I'm learning</h2>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaCript</li>
+</ul>
+<h2>Others</h2>
+<p>Node I React I TypeScript I Git </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h2> ⚡ Fun Facts </h2>
+<p>- I come from a mechanics background, but I found a space to create and innovate in programming, thanks to the DevClub Course.</p>
+
+<p>- I've always enjoyed building things, and when I discovered programming, where you build a website from start to finish, it made me discover something I enjoyed.</p>  
+
+<h2>How to find me</h2>
+<img width="40"  alt="image-linkedin" src="https://github.com/user-attachments/assets/650fa1da-6b63-4079-a755-a67a9b00d4d0" <a href="www.linkedin.com/in/victor-ferreira-9a6566377" /> 
+
+<br>
+<br>
+
+<h2>most Used Language</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorFerreira-hub&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
+<h3>People who accessed</h3>
+
+![](https://komarev.com/ghpvc/?username=victorFerreira-hub)
