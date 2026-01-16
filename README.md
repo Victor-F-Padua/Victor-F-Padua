@@ -21,14 +21,8 @@
 
 <p>- I've always enjoyed building things, and when I discovered programming, where you build a website from start to finish, it made me discover something I enjoyed.</p>  
 
-<h2>How to find me</h2>
-<a href="www.linkedin.com/in/victor-ferreira-9a6566377">Linkedin</a> 
 <br>
-<a href="victor.f.padua@gmail.com">Gmail</a> 
 
-
-<br>
-<br>
 
 <h2>most Used Language</h2>
 
