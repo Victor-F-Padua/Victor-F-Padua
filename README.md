@@ -24,11 +24,4 @@
 <br>
 
 
-<h2>most Used Language</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-F-Padua&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
