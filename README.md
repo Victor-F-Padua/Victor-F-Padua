@@ -1,27 +1,70 @@
-# Hello, I'm Victor Ferreira 💪🏽
+# Hi, I'm Victor Ferreira 👋
 
-<p>🎓 High school student at <b>ETEC</b>, with a technical degree in <b>Mechanics</b>.<p/>
-<p>💻 Despite studying mechanics, I discovered my <b>passion for programming</b> and am focused on pursuing a career in technology.</p>
-<p>🚀 Constantly learning and building my path as a <b>developer</b>.</p>
-<p>🧠 I want to be a FullStack programmer and also a competent programmer who understands what he is doing and just doesn't copy code.</p>
+🎓 High school student at **ETEC** — Technical degree in **Mechanics**  
+💻 Future **Software Developer** focused on learning and growing in tech  
+🚀 Looking for my **first internship opportunity in programming**
 
-<h2>🌱 What I'm learning</h2>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaCript</li>
-</ul>
-<h2>Others</h2>
-<p>Node I React I TypeScript I Git </p>
+---
 
+## 👨‍💻 About Me
 
+I am a technical student in Mechanics who discovered a passion for programming and decided to pursue a career in technology.
 
-<h2> ⚡ Fun Facts </h2>
-<p>- I come from a mechanics background, but I found a space to create and innovate in programming, thanks to the DevClub Course.</p>
+I am not just interested in writing code, but in understanding how things work and building real solutions.  
+I am highly motivated to learn, grow, and contribute to a development team as an intern.
 
-<p>- I've always enjoyed building things, and when I discovered programming, where you build a website from start to finish, it made me discover something I enjoyed.</p>  
+---
 
-<br>
+## 🧑‍🎓 Currently Studying
 
+- HTML5  
+- CSS3  
+- JavaScript  
+- Node.js  
+- React  
+- TypeScript  
 
+---
 
+## 🛠️ Technologies
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,typescript,git,github" />
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Victor-F-Padua&show_icons=true&theme=tokyonight" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-F-Padua&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🎯 Career Goals
+
+- Get my first internship in software development  
+- Improve my skills through real-world projects  
+- Become a Full Stack Developer  
+
+---
+
+## ⚡ Fun Facts
+
+- I transitioned from mechanics to programming because I love building things — now I build with code.  
+- I enjoy turning ideas into real applications and websites.  
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/Victor-F-Padua  
+
+---
+
+⭐ Always learning. Ready for new challenges.
