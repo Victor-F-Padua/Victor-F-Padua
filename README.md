@@ -1,12 +1,17 @@
 # Hi, I'm Victor Ferreira 👋
 
+<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/Victor-F-Padua/Victor-F-Padua/main/Programming.gif" width="440px" />
+
+</div>
+
 🎓 High school student at **ETEC** — Technical degree in **Mechanics**  
 💻 Future **Software Developer** focused on learning and growing in tech  
 🚀 Looking for my **first internship opportunity in programming**
 
 ---
 
-## 👨‍💻 About Me
+<h3> 👨‍💻 About Me </h3>
 
 I am a technical student in Mechanics who discovered a passion for programming and decided to pursue a career in technology.
 
